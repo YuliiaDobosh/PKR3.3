@@ -1,0 +1,5 @@
+﻿  PKR3.3.cpp
+C:\Users\HP\source\repos\PKR3.3\PKR3.3.cpp(20,13): warning C4101: 'sp': unreferenced local variable
+C:\Users\HP\source\repos\PKR3.3\PKR3.3.cpp(121,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\HP\source\repos\PKR3.3\PKR3.3.cpp(134,38): warning C4018: '<': signed/unsigned mismatch
+  PKR3.3.vcxproj -> C:\Users\HP\source\repos\PKR3.3\Debug\PKR3.3.exe
